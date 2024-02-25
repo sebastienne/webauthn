@@ -18,6 +18,7 @@ export interface CommonOptions {
 
 export interface AuthenticateOptions extends CommonOptions {
   mediation ?:CredentialMediationRequirement
+  signal ?:AbortSignal
 }
 
 export interface AuthenticationEncoded {

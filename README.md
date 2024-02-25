@@ -403,6 +403,7 @@ Authentication options
 ----------------------
 
 - `mediation`: See https://developer.mozilla.org/en-US/docs/Web/API/CredentialsContainer/get#mediation
+- `signal`: See https://developer.mozilla.org/en-US/docs/Web/API/CredentialsContainer/get#signal
 
 
 Parsing data
